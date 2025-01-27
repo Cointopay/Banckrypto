@@ -27,7 +27,7 @@
         </div>
 
         <div class="col-span-2 lg:col-span-1 flex items-center justify-end">
-          <a class="icon mr-2" href="https://t.me/cointopay" target="_blank">
+          <a class="icon mr-2" href="https://t.me/cointopaycom" target="_blank">
             <svg fill="currentColor" height="24px"
                  style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"
                  version="1.1" width="24px"

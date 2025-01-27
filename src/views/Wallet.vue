@@ -3,12 +3,7 @@
     <div class="grid grid-cols-2 gap-4">
       <div class="col-span-2 lg:col-span-1">
         <h1 class="text-2xl font-bold text-gray-600 mb-4">EURx Crypto Wallet</h1>
-        <p class="text-sm font-normal text-gray-600 mb-24">This crypto wallet is the first hybrid blockchain bank
-          wallet. You can transfer your EURx currency via the blockchain but you can also buy/sell trade it on
-          cointopay.com. It is a stable currency which is being sold for one Euro per coin, however it has a limited
-          supply of 100000000 units and can be traded on reflextrader.com. You can also import your EURx and send it via
-          your verified bank account. You may also download this wallet and run it yourself. Welcome to the
-          decentralized future!</p>
+        <p class="text-sm font-normal text-gray-600 mb-24">This crypto wallet is the first hybrid blockchain bank wallet. You can transfer your EURx currency via the blockchain but you can also buy/sell trade it on cointopay.com. It is a market rate based currency, it has a limited supply and can be traded on reflextrader.com. You can also import your EURx and send it via your verified bank account. You may also download this wallet and run it yourself. Welcome to the decentralized future!</p>
         <div>
           <router-link tag="a" :to="{ name: 'signup' }"
                        class="bg-white hover:bg-gray-100 text-gray-700 font-bold py-3 px-4 rounded mr-2 shadow">
